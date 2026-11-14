@@ -1,0 +1,8 @@
+GymSeeker - proyecto para generar el APK
+
+1. Crea un repositorio nuevo en github.com y sube TODO el contenido de esta carpeta
+   (incluida la carpeta oculta .github).
+2. En el repositorio, entra a la pestana "Actions" > "Construir APK" > "Run workflow".
+3. Cuando termine (unos 5 a 10 minutos), abre la ejecucion y descarga "GymSeeker-APK".
+4. Descomprime el zip, pasa app-debug.apk al celular e instalalo
+   (permite "instalar apps de origen desconocido" si te lo pide).
